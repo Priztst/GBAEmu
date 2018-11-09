@@ -1,3 +1,5 @@
+This Is A Gameboy EMU for my website
+Orginal Credits:
 # GBA Games Page:
 
 https://jsemu3.github.io/gba
